@@ -5,7 +5,7 @@ Incluye problemas, estrategias, teoría, y reflexiones sobre el pensamiento geom
 
 ## 📥 Descargar
 
-📄 [Versión PDF del libro](GeometriaParaOlimpicos.pdf)
+📄 [Versión PDF del libro](BiceptrizV1.0.pdf)
 
 ## 📌 Contenido
 
